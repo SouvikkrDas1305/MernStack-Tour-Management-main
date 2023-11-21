@@ -1,4 +1,4 @@
-MernStack-Tour-Management-main
+Tour-Management
 
 Travel Explorer is a dynamic and visually appealing travel website designed to inspire and assist users in discovering their next adventure. This repository contains the codebase for the website, showcasing various travel destinations, detailed itineraries, and a seamless user experience.
 
